@@ -1,0 +1,6 @@
+alpaca-py
+openai
+python-dotenv
+pandas
+yfinance
+rich
