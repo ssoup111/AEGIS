@@ -1,6 +1,12 @@
-import yfinance as yf
+try:
+    import yfinance as yf
+except ModuleNotFoundError:
+    yf = None
 
 def get_market_context(symbol: str) -> dict:
+    if yf is None:
+        raise RuntimeError("yfinance is not installed")
+
     ticker = yf.Ticker(symbol)
     hist = ticker.history(period="10d")
 
