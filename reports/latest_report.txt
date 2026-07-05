@@ -1,0 +1,139 @@
+AEGIS PAPER-TRADING EMAIL REPORT
+==================================
+Generated: 2026-07-05T14:15:53
+
+EXECUTIVE SUMMARY
+-----------------
+System health: DEGRADED
+Watchlist decisions: 10
+BUY: 0 | HOLD: 0 | REJECT: 0 | ERROR: 10
+Mode: Paper trading only. No emails sent. No Gmail connection. No real trades placed.
+
+VIRTUAL PORTFOLIO
+-----------------
+Portfolio value: $100.00
+Cash available: $100.00
+Open positions: 0
+Recorded paper trades: 0
+
+TOP 10 OPPORTUNITIES
+--------------------
+
+1. AAPL
+   Action: ERROR
+   Score: -999
+   Confidence: 0%
+   Last close: N/A
+   Price change: N/A
+   Volume change: N/A
+   Reason: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+    Agent votes: none recorded
+
+2. MSFT
+   Action: ERROR
+   Score: -999
+   Confidence: 0%
+   Last close: N/A
+   Price change: N/A
+   Volume change: N/A
+   Reason: Failed to perform, curl: (6) Could not resolve host: guce.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+    Agent votes: none recorded
+
+3. NVDA
+   Action: ERROR
+   Score: -999
+   Confidence: 0%
+   Last close: N/A
+   Price change: N/A
+   Volume change: N/A
+   Reason: 'NoneType' object is not subscriptable
+    Agent votes: none recorded
+
+4. AMD
+   Action: ERROR
+   Score: -999
+   Confidence: 0%
+   Last close: N/A
+   Price change: N/A
+   Volume change: N/A
+   Reason: 'NoneType' object is not subscriptable
+    Agent votes: none recorded
+
+5. TSLA
+   Action: ERROR
+   Score: -999
+   Confidence: 0%
+   Last close: N/A
+   Price change: N/A
+   Volume change: N/A
+   Reason: 'NoneType' object is not subscriptable
+    Agent votes: none recorded
+
+6. AMZN
+   Action: ERROR
+   Score: -999
+   Confidence: 0%
+   Last close: N/A
+   Price change: N/A
+   Volume change: N/A
+   Reason: 'NoneType' object is not subscriptable
+    Agent votes: none recorded
+
+7. META
+   Action: ERROR
+   Score: -999
+   Confidence: 0%
+   Last close: N/A
+   Price change: N/A
+   Volume change: N/A
+   Reason: 'NoneType' object is not subscriptable
+    Agent votes: none recorded
+
+8. GOOGL
+   Action: ERROR
+   Score: -999
+   Confidence: 0%
+   Last close: N/A
+   Price change: N/A
+   Volume change: N/A
+   Reason: 'NoneType' object is not subscriptable
+    Agent votes: none recorded
+
+9. PLTR
+   Action: ERROR
+   Score: -999
+   Confidence: 0%
+   Last close: N/A
+   Price change: N/A
+   Volume change: N/A
+   Reason: 'NoneType' object is not subscriptable
+    Agent votes: none recorded
+
+10. SOFI
+   Action: ERROR
+   Score: -999
+   Confidence: 0%
+   Last close: N/A
+   Price change: N/A
+   Volume change: N/A
+   Reason: 'NoneType' object is not subscriptable
+    Agent votes: none recorded
+
+RESEARCH DIRECTOR
+-----------------
+Three things learned:
+- The scan produced 10 watchlist decisions with 0 BUY candidates.
+- The highest-ranked symbol was AAPL.
+- The virtual portfolio is valued at $100.00 with $100.00 cash available.
+
+Two mistakes or risks:
+- Paper-trading results are not live execution results and should not be treated as brokerage performance.
+- 10 symbols returned scan errors, so system health is DEGRADED.
+
+One experiment for tomorrow:
+- Compare tomorrow's top-ranked symbols against today's report and flag any repeated BUY signals.
+
+SYSTEM HEALTH
+-------------
+Status: DEGRADED
+Last scan time: 2026-07-05T14:15:53
